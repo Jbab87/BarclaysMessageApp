@@ -38,7 +38,7 @@ pipeline {
 //          }
         stage('Deploy') {
             steps {
-            echo "DEPLOYMENT SUCCESSFUL!!  And the crowd goes wild!"
+            echo "DEPLOYMENT SUCCESSFUL!!!  And the crowd goes wild!"
 //                 cat './jenkins/scripts/deploy.sh'
             }
         }
